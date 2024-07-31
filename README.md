@@ -1,4 +1,4 @@
-# DBMS Assignment 3 - Club Management System Webapp
+# DBMS - Club Management System Webapp
 
 ## Made with Flask and MySQL
 
@@ -184,7 +184,7 @@ On performing we start with this page displaying all the tables and we can selec
 
 ## Work Distribution
 
-### G1
+### Group-1
 
 1. #### Anshul Choudhary
    - Worked on ideating the initial design of the website.
@@ -202,19 +202,19 @@ On performing we start with this page displaying all the tables and we can selec
    - Made beautification and visual changes to various components of project.
    - Assisted in debugging of various issues arrived during linking.
 
-### G2
+### Group-2
 
-1. #### Shubh Singhal
-   - Ideated and wrote various backend queries required for smooth functioning of webapp.
-   - Added and tested various views and dynamic operations. 
-   - Led in debugging various inconsistences and bugs accumulated in running the webapp.
-
-   
-
-2. #### Yashraj Deshmukh
+1. #### Yashraj Deshmukh
    - Led in writing back-end code for various pages and setting routing protocols.
    - Ideated on what routing protocols to follow and work-flow of app.
    - Worked on combining various elements of database system.
+   - Conceptualised the key functionalities and role privileges for the portal.
+   
+
+2. #### Shubh Singhal
+   - Ideated and wrote various backend queries required for smooth functioning of webapp.
+   - Added and tested various views and dynamic operations. 
+   - Led in debugging various inconsistences and bugs accumulated in running the webapp.
    
 
 3. #### Pratham Sagar
